@@ -1517,6 +1517,7 @@ EDPK|Schoenberg|48.047694|12.500694||EDMM|0
 EDPM|Donzdorf|48.678174|9.843578||EDMM|0
 EDPO|Neumarkt/Opf.|49.285618|11.444724||EDMM|0
 EDPQ|Schmidgaden|49.429773|12.096847||EDMM|0
+EDPR|Donauwörth Heliport|48.7075|10.76944||EDMM|0
 EDPS|Sonnen|48.682778|13.695833||EDMM|0
 EDPT|Gerstetten|48.620278|10.059167||EDMM|0
 EDPU|Bartholomae-Amalienhof|48.746667|10.005||EDMM|0
@@ -5004,7 +5005,7 @@ KCHU|Houston County|43.596359|-91.503946|CHU|KZMP|0
 KCIC|Chico Muni CA|39.795383|-121.858422|CIC|KZOA|0
 KCID|Cedar Rapids Muni IA|41.884589|-91.710872|CID|KZAU|0
 KCII|Choteau|47.828333|-112.168333|CII|KZLC|0
-KCIN|Carroll IA|42.046194|-94.789|CIN|KZMP|0
+KCIN|Carroll IA|42.046194|-94.789||KZMP|0
 KCIR|Cairo Rgnl|37.064139|-89.219528|CIR|KZME|0
 KCIU|Chippewa County Intl|46.250751|-84.472385|CIU|KZMP|0
 KCJJ|Ellen Church Field|43.365301|-92.133083||KZMP|0
@@ -8377,6 +8378,7 @@ LRBS|Bucuresti-Baneasa|44.503483|26.103594||LRBB|0
 LRBV|Brasov-Ghimbav|45.706111|25.523333||LRBB|0
 LRCB|Arad/Charlie-Bravo Siria|46.271667|21.606111||LRBB|0
 LRCD|Magura|45.737183|24.165208||LRBB|0
+LRCJ|Dezmir|46.779166|23.711944||LRBB|0
 LRCK|Kogalniceanu|44.362114|28.488453||LRBB|0
 LRCL|Cluj-Napoca|46.785092|23.686119||LRBB|0
 LRCN|Clinceni|44.358333|25.930556||LRBB|0
@@ -8385,6 +8387,7 @@ LRCT|Campia Turzii|46.5025|23.886111||LRBB|0
 LRCV|Craiova|44.318144|23.888533||LRBB|0
 LRDV|Deva/Saulesti - Constantin Manolache|45.866389|22.966111||LRBB|0
 LRFT|Fetesti (MIL)|44.392222|27.726667||LRBB|0
+LRHR|Remetea|46.819166|25.411666||LRBB|0
 LRIA|Iasi|47.178758|27.620044||LRBB|0
 LROD|Oradea|47.025322|21.902408||LRBB|0
 LROP|Bucuresti-Otopeni|44.570992|26.085119||LRBB|0
@@ -8605,6 +8608,7 @@ LTCU|Bingol|38.861110|40.5925|BGG|LTAA|0
 LTCV|Sirnak Serafettin Elci|37.363888|42.06|NKT|LTAA|0
 LTCW|Hakkari Yuksekova Selahaddin Eyyubi|37.549721|44.23749||LTAA|0
 LTDA|Hatay|36.372221|36.29861||LTAA|0
+LTDB|Cukurova|36.891666666667|35.071111111111||LTAA|0
 LTFA|Izmir-Kaklic|38.517499|26.97722||LTAA|0
 LTFB|Selcuk-Efes|37.951110|27.33277||LTAA|0
 LTFC|Suleyman-Demirel|37.855832|30.36694||LTAA|0
@@ -9513,6 +9517,7 @@ NWWT|La Foa Oua Tom|-21.819722|165.860833||NWWW|0
 NWWU|Touho|-20.79|166.2595||NWWW|0
 NWWV|Ouloup Ile Ouvea|-20.64972|166.58306||NWWW|0
 NWWW|La Tontouta Nlle-Caledonie|-22.016389|166.216111||NWWW|0
+NWWW|La Tontouta Nlle-Caledonie|-22.016389|166.216111|NWWW-T|NWWW|0
 NWWX|Canala|-21.522833|165.975667||NWWW|0
 NZAA|Auckland|-37.019217|174.770674|AKL|NZAA|0
 NZAH|Taharoa Iron Sands|-43.894186|171.747975||NZAA|0
@@ -10625,7 +10630,7 @@ RKTD|Taejon Kor - AFB|36.33306|127.38306||RKDA|0
 RKTE|Songmu Ab|36.39972|127.5||RKDA|0
 RKTF|Taejon|36.29972|127.4||RKDA|0
 RKTG|Camp Walker|35.85|128.58306||RKDA|0
-RKTH|Pohang|35.988333|129.420000||RKDA|0
+RKTH|Pohang-Gyeongju|35.988333|129.420000||RKDA|0
 RKTI|Jung Won Rok-Ab|37.03306|127.88306||RKDA|0
 RKTL|Uljin|36.769520|129.464910||RKDA|0
 RKTM|Mangilsan Ab|36.93306|126.45||RKRR|0
@@ -12776,7 +12781,7 @@ UASZ|Zaisan|47.487492|84.887742|SZI|UAAA|0
 UATE|Aktau|43.86667|51.09722||UATT|0
 UATG|Atyrau|47.120278|51.825833||UATT|0
 UATT|Aktyubinsk|50.245|57.203333||UATT|0
-UAUU|Kustanay (Narimanovka)|53.123833|63.3305||UACN|0
+UAUU|Kustanay (Narimanovka)|53.208611111|63.548055556||UACN|0
 UBBB|Baku (Heydar Aliyev)|40.467222|50.053333||UBBA|0
 UBBG|Gyandzha|40.735|46.318333||UBBA|0
 UBBL|Lenkoran|38.758611|48.806389|LLK|UBBA|0
@@ -14605,7 +14610,7 @@ YBRW|Brewarrina|-29.973889|146.816667||YASP|0
 YBRX|Broadmeadows|-37.716667|144.916667||YELW|0
 YBRY|Barimunya|-22.673889|119.166111||YOLW|0
 YBSF|Beresford|-22.5|146.933333||YISA|0
-YBSG|Scherger (RAAF)|-12.623889|142.087222||YISA|0
+YBSG|Scherger (RAAF)|-12.623889|142.087222|SG|YISA|0
 YBSH|Brush Island|-35.531389|150.418333||YBIK|0
 YBSL|Rowsley-Brooks Landing|-37.708056|144.342778||YELW|0
 YBSM|Blossom Banks|-19.724722|150.424722||YKEN|0
@@ -14781,7 +14786,7 @@ YCIE|Combienbar|-27.399722|149.016389||YISA|0
 YCIG|Corrigin|-32.341667|117.813056||YPIY|0
 YCII|Collins Island|-22.25|150.316389||YKEN|0
 YCIL|Carlton Hill|-15.480278|128.539444||YTRT|0
-YCIN|Curtin|-17.581389|123.828333||YTRT|0
+YCIN|Curtin|-17.581389|123.828333|CIN|YTRT|0
 YCIP|Craig'S Pocket|-18.566667|145.016389||YKEN|0
 YCJU|Conjuboy|-18.683056|144.75||YKEN|0
 YCKA|Curdimurka|-29.476667|137.088056||YASP|0
@@ -16368,7 +16373,7 @@ YPLD|Planet Downs|-18.5|139.283333||YISA|0
 YPLG|Pilliga|-30.366667|148.916667||YARL|0
 YPLI|Palmers Island Maclean|-29.446667|153.266389||YINL|0
 YPLL|Peak Hill|-25.6|118.683333||YOLW|0
-YPLM|Learmonth|-22.235556|114.088611||YOLW|0
+YPLM|Learmonth|-22.235556|114.088611|LM|YOLW|0
 YPLS|Gladstone-Playstation|-31.043889|152.936111||YARL|0
 YPLT|Point Lookout|-27.427778|153.521944||YINL|0
 YPLU|Plutonic|-25.316667|119.423333||YOLW|0
@@ -16437,7 +16442,7 @@ YPVI|Palmerville|-16|144.066389||YKEN|0
 YPWF|Port Wakefield|-34.186667|138.163056||YTBD|0
 YPWH|Pittsworth|-27.733333|151.633333||YINL|0
 YPWL|Powelltown|-37.866389|145.75||YYWE|0
-YPWR|Woomera|-31.144167|136.816944||YASP|0
+YPWR|Woomera|-31.144167|136.816944|WR|YASP|0
 YPXM|Christmas Island|-10.450556|105.690278||WIIF|0
 YPYD|Pyramid Hill|-36.066389|144.133056||YYWE|0
 YPYF|Paynes Find|-29.262222|117.669444||YPIY|0
@@ -17070,6 +17075,7 @@ YWLF|Welford|-25.166389|143.316389||YISA|0
 YWLG|Walgett|-30.032778|148.125833||YARL|0
 YWLI|Mount Wellington|-42.9|147.233333||YHUO|0
 YWLM|Williamtown|-32.795|151.834444|WLM|YARL|0
+YWLM|Williamtown|-32.795|151.834444|WLM-L|YARL|0
 YWLN|Wooltana|-30.421667|139.436111||YASP|0
 YWLO|Willeroo|-15.3|131.583056||YTRT|0
 YWLP|Wilsons Promontory|-39.131111|146.425||YYWE|0
@@ -17714,7 +17720,7 @@ ZSGZ|Ganzhou Huangjin|25.850157|114.950884||ZSHA|0
 ZSHC|Hangzhou Xiaoshan|30.228632|120.432376||ZSHA|0
 ZSHZ|Heze Mudan|35.214354|115.736845||ZSHA|0
 ZSJD|Jingdezhen Luojia|29.338084|117.175486||ZSHA|0
-ZSJG|Jining Qufu|35.291778|116.347537||ZSHA|0
+ZSJG|Jining Da'an|35.647222|116.742222||ZSHA|0
 ZSJH|Chizhou Jiuhuashan|30.739751|117.688418||ZSHA|0
 ZSJJ|Jiujiang Lushan|29.477139|115.801354||ZSHA|0
 ZSJN|Jinan Yaoqiang|36.857213|117.216384||ZSHA|0
@@ -17732,7 +17738,6 @@ ZSQD|Qingdao Jiaodong|36.366526|120.098729||ZSHA|0
 ZSQZ|Quanzhou Jinjiang|24.799411|118.591113||ZSHA|0
 ZSRZ|Rizhao Shanzihe|35.404764|119.323218||ZSHA|0
 ZSSH|Huai'an Lianshui|33.777701|119.147299||ZSHA|0
-ZSSL|Shanghai Longhua|31.163509|121.453166||ZSHA|0
 ZSSM|Sanming Shaxian|26.427323|117.834513||ZSHA|0
 ZSSR|Shangrao Sanqingshan|28.378986|117.964941||ZSHA|0
 ZSSS|Shanghai Hongqiao|31.198609|121.335754||ZSHA|0
@@ -17768,7 +17773,7 @@ ZUJZ|Jiuzhai Huanglong|32.856610|103.683140||ZPKM|0
 ZUKD|Kangding|30.142979|101.738668||ZPKM|0
 ZUKJ|Kaili Huangping|26.971613|107.987240||ZPKM|0
 ZULA|Langzhong Gucheng|31.50366|106.03535||ZPKM|0
-ZULB|Libo|25.451927|107.962642||ZPKM|0
+ZULB|Qiannan Libo|25.451927|107.962642||ZPKM|0
 ZULS|Lhasa Gonggar|29.297854|90.912670||ZPKM|0
 ZULZ|Luzhou Yunlong|29.029897|105.469248||ZPKM|0
 ZUMT|Zunyi Maotai|27.962600|106.434921||ZPKM|0
@@ -17780,7 +17785,6 @@ ZUPL|Nagri Pulan|30.39145|81.13747||ZPKM|0
 ZUPS|Liupanshui Yuezhao|26.609063|104.978306||ZPKM|0
 ZUQJ|Qianjiang Wulingshan|29.515665|108.832636||ZPKM|0
 ZURK|Shigatse Heping|29.351402|89.309806||ZPKM|0
-ZUSN|Suining|30.466309|105.601602||ZPKM|0
 ZUSH|Shannan Lhunze|28.4315|92.351||ZPKM|0
 ZUTF|Chengdu Tianfu|30.291841|104.445258||ZPKM|0
 ZUTR|Tongren Fenghuang|27.884386|109.309443||ZPKM|0
@@ -17862,9 +17866,15 @@ AYPM|Port Moresby||AYPM
 BGGL|Nuuk||BGGL
 BIRD|Reykjavik||BIRD
 BIRD-E|Reykjavik ACC (East) - Reykjavik|BIRD_E|BIRD-E
+BIRD-E|Reykjavik ACC (East) - Reykjavik|BIRD_E1|BIRD-E
+BIRD-E|Reykjavik ACC (East) - Reykjavik|BIRD_E2|BIRD-E
+BIRD-E|Reykjavik ACC (East) - Reykjavik|BIRD_E3|BIRD-E
 BIRD-N|Reykjavik ACC (North) - Reykjavik|BIRD_N|BIRD-N
 BIRD-S|Reykjavik ACC (South) - Reykjavik|BIRD_S|BIRD-S
 BIRD-W|Reykjavik ACC (West) - Reykjavik|BIRD_W|BIRD-W
+BIRD-W|Reykjavik ACC (West) - Reykjavik|BIRD_W1|BIRD-W
+BIRD-W|Reykjavik ACC (West) - Reykjavik|BIRD_W2|BIRD-W
+BIRD-W|Reykjavik ACC (West) - Reykjavik|BIRD_W3|BIRD-W
 BSW|Black Sea West Radar||BSW
 CZEG|Edmonton|EDM|CZEG
 CZEG|Edmonton|ZEG|CZEG
@@ -17899,19 +17909,21 @@ EDGG-HMM|Langen Radar (Hamm) - Langen|EDGG_HMM|EDGG-HMM
 EDGG-PAH|Langen Radar (Pad High) - Langen|EDGG_PAH|EDGG-PAH
 EDGG|Langen||EDGG
 EDMM|Muenchen||EDMM
-EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_Z|EDMM-Z
-EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_U|EDMM-Z
-EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_T|EDMM-Z
-EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_N|EDMM-Z
-EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_W|EDMM-Z
-EDMM-Z|Muenchen ACC (Zugspitze) - Muenchen|EDMM_A|EDMM-Z
-EDMM-R|Muenchen ACC (Roding) - Muenchen|EDMM_R|EDMM-R
-EDMM-R|Muenchen ACC (Roding) - Muenchen|EDMM_E|EDMM-R
-EDMM-O|Muenchen ACC (Hof) - Muenchen|EDMM_O|EDMM-O
-EDMM-O|Muenchen ACC (Hof) - Muenchen|EDMM_B|EDMM-O
-EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_G|EDMM-G
-EDMM-G|Muenchen ACC (Gera) - Muenchen|EDMM_M|EDMM-G
-EDMM-G|Muenchen ACC (Gera) - Muenchen|EDWW_B|EDMM-G
+EDMM-ZUG|Muenchen ACC (Zugspitze) - Muenchen|EDMM_ZUG|EDMM-ZUG
+EDMM-ZUG|Muenchen ACC (Zugspitze) - Muenchen|EDMM_ALB|EDMM-ZUG
+EDMM-ZUG|Muenchen ACC (Zugspitze) - Muenchen|EDMM_EGG|EDMM-ZUG
+EDMM-ZUG|Muenchen ACC (Zugspitze) - Muenchen|EDMM_FUE|EDMM-ZUG
+EDMM-ZUG|Muenchen ACC (Zugspitze) - Muenchen|EDMM_NDG|EDMM-ZUG
+EDMM-ZUG|Muenchen ACC (Zugspitze) - Muenchen|EDMM_STA|EDMM-ZUG
+EDMM-ZUG|Muenchen ACC (Zugspitze) - Muenchen|EDMM_TEG|EDMM-ZUG
+EDMM-ZUG|Muenchen ACC (Zugspitze) - Muenchen|EDMM_TRU|EDMM-ZUG
+EDMM-ZUG|Muenchen ACC (Zugspitze) - Muenchen|EDMM_WLD|EDMM-ZUG
+EDMM-RDG|Muenchen ACC (Roding) - Muenchen|EDMM_RDG|EDMM-RDG
+EDMM-HOF|Muenchen ACC (Hof) - Muenchen|EDMM_HOF|EDMM-HOF
+EDMM-HOF|Muenchen ACC (Hof) - Muenchen|EDMM_BBG|EDMM-HOF
+EDMM-GER|Muenchen ACC (Gera) - Muenchen|EDMM_GER|EDMM-GER
+EDMM-GER|Muenchen ACC (Gera) - Muenchen|EDMM_MEI|EDMM-GER
+EDMM-GER|Muenchen ACC (Gera) - Muenchen|EDMM_HAL|EDMM-GER
 EDWW|Bremen||EDWW
 EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_F|EDWW-B
 EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_B|EDWW-B
@@ -17919,11 +17931,11 @@ EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_K|EDWW-B
 EDWW-B|Bremen ACC (Boerde) - Bremen|EDWW_M|EDWW-B
 EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_A|EDWW-A
 EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_H|EDWW-A
-EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_D|EDWW-A
-EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_R|EDWW-A
-EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_S|EDWW-A
 EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_E|EDWW-A
-EDWW-A|Bremen ACC (Aller) - Bremen|EDWW_W|EDWW-A
+EDWW-W|Bremen ACC (West) - Bremen|EDWW_W|EDWW-W
+EDWW-D|Bremen ACC (Deister) - Bremen|EDWW_D|EDWW-D
+EDWW-D|Bremen ACC (Deister) - Bremen|EDWW_R|EDWW-D
+EDWW-D|Bremen ACC (Deister) - Bremen|EDWW_S|EDWW-D
 EDXX|Langen Information - FIS only|EDXX_FIS|EDXX
 EETT|Tallinn||EETT
 EFIN|Helsinki||EFIN
@@ -17963,10 +17975,11 @@ EGTT-W|London ACC (West) - London|LON_W|EGTT-W
 EGVV|Swanwick Military|EGVV|EGVV
 EGYP|Mount Pleasant (Monte Agradable)|ISLAND|EGYP
 EHAA|Amsterdam||EHAA
-EHMC|Dutch Mil (Up to FL245, including N and E)||EHMC
+EHMC|Dutch Mil (Up to FL245)||EHAA
 EHML|Bandbox CRC (Military)||EHAA
 EIDW|Dublin ACC (Up to FL245) - Shannon||EIDW
-EISN|Shannon||EISN
+EISN|Shannon ACC - Shannon||EISN
+EISN-L|Shannon ACC (Up to FL245) - Shannon|EISN_LS|EISN-L
 EKDK|Kobenhavn||EKDK
 EKDK-E|Kobenhavn (East)|EKDK_E|EKDK-E
 EKDK-E|Kobenhavn (East)|EKDK_D|EKDK-E
@@ -17979,6 +17992,10 @@ EKDK-W|Kobenhavn (West)|EKDK_N|EKDK-W
 EKDK-W|Kobenhavn (West)|EKDK_L|EKDK-W
 EKDK-W|Kobenhavn (West)|EKDK_S|EKDK-W
 ENBD|Bodo ACC - Polaris||ENBD
+ENBD-E|Bodø ACC (East) - Polaris|ENBD_E|ENBD-E
+ENBD-C|Bodø ACC (Central) - Polaris|ENBD_C|ENBD-C
+ENBD-S|Bodø ACC (South) - Polaris|ENBD_S|ENBD-S
+ENBD-19|Bodø ACC - Polaris|ENBD_19|ENBD-19
 ENOB|Bodo Oceanic||ENOB
 ENOR|Polaris||ENOR
 ENOR-S|Polaris South|ENOR_S|ENOR-S
@@ -17993,7 +18010,13 @@ EPWW-W|Warszawa|EPWW-W|EPWW
 EPWW-SW|Warszawa (if West offline)|EPWW-SW|EPWW
 EPWW-NW|Warszawa (if West offline)|EPWW-NW|EPWW
 ESMM|Malmo ACC - Sweden||ESMM
+ESMM-5|Malmo ACC (5) - Sweden|ESMM_5|ESMM-5
+ESMM-7|Malmo ACC (7) - Sweden|ESMM_7|ESMM-7
+ESMM-8|Malmo ACC (8) - Sweden|ESMM_8|ESMM-8
 ESOS|Stockholm ACC - Sweden||ESOS
+ESOS-K|Stockholm ACC (K) - Sweden|ESOS_K|ESOS-K
+ESOS-N|Stockholm ACC (N) - Sweden|ESOS_N|ESOS-N
+ESOS-3|Stockholm ACC (3) - Sweden|ESOS_3|ESOS-3
 ESSR|Stockholm RTC - Sweden||ESOS
 EVRR|Riga||EVRR
 EYVL|Vilnius||EYVL
@@ -18389,6 +18412,14 @@ UTDD|Dushanbe||UTDD
 UTSD|Samarkand||UTSD
 UTTR|Tashkent||UTTR
 UUWV|Moscow||UUWV
+UUWV-N|Moscow ACC sector Combined North - Moscow|UUWV_N|UUWV-N
+UUWV-S|Moscow ACC sector Combined South - Moscow|UUWV_S|UUWV-S
+UUWV-NW|Moscow ACC sector North - Moscow|UUWV_NW|UUWV-NW
+UUWV-NE|Moscow ACC sector Gorky - Moscow|UUWV_NE|UUWV-NE
+UUWV-SE|Moscow ACC sectors Penza and Voronezh - Moscow|UUWV_SE|UUWV-SE
+UUWV-E|Moscow ACC sector Penza - Moscow|UUWV_E|UUWV-E
+UUWV-SW|Moscow ACC sector South-West - Moscow|UUWV_SW|UUWV-SW
+UUWV-W|Moscow ACC sector West - Moscow|UUWV_W|UUWV-W
 UWWW|Samara||UWWW
 VAAH|Ahmedabad||VAAH
 VABB|Mumbai ACC - Mumbai||VABB
@@ -18546,7 +18577,13 @@ ZYSH|Shenyang|ZYSH|
 ZYTX|Shenyang ACC - Shenyang|ZYTX|
 ZYHB|Harbin ACC - Shenyang|ZYHB|
 ZYTL|Dalian ACC - Shenyang|ZYTL|
-ZMUB|Ulaan Baatar|ZMUB|
+ZMUB|Ulaanbaatar||ZMUB
+ZMUB-A|Ulaanbaatar ACC Altai Sector - Ulaanbaatar|ZMUB_A|ZMUB-A
+ZMUB-B|Ulaanbaatar ACC Bayan Sector - Ulaanbaatar|ZMUB_B|ZMUB-B
+ZMUB-C|Ulaanbaatar ACC Central Sector - Ulaanbaatar|ZMUB_C|ZMUB-C
+ZMUB-D|Ulaanbaatar ACC Dornod Sector - Ulaanbaatar|ZMUB_D|ZMUB-D
+ZMUB-G|Ulaanbaatar ACC Gobi Sector - Ulaanbaatar|ZMUB_G|ZMUB-G
+ZMUB-M|Ulaanbaatar ACC Muren Sector - Ulaanbaatar|ZMUB_M|ZMUB-M
 
 [UIRs]
 ADR_U|Adria Radar Upper|LJLA,LDZO,LQSB,LYBA,LWSS,LAAA
@@ -18566,14 +18603,14 @@ CARE|Caribbean Control East|MDCS,TJZS,TTZP,TTZO
 CARW|Caribbean Control West|MUFH,MKJK,MTEG,TNCF
 ANT|Antilles Center|MDCS,TNCF,MTEG
 EURN|EuroNorth|EKDK,EETT,EFIN,EVRR,EYVL,ENBD,ENOS,ENSV,ESOS
-EUC-EN|EuroEast|EPWW,LKAA,LZBB,LOVV,LHCC
-EUC-ES|EuroEast|LIPP,LJLA,LDZO,LQSB,LIBB,LIRR,LMMM
-EUC-ME|Maastricht|EDWW-B,EDMM,EDGG-BAD,EDGG-DKB,EDGG-GIN,EDGG-RUD
-EUC-MW|Maastricht|EDGG-PAH,EDWW-A,EHAA,EBBU
-EUC-SE|EuroSouth|LTAA,LTBB,LCCC
-EUC-SW|EuroSouth|LRBB,LUUU,LBSR,LYBA,LGGG,LAAA,LWSS
-EUC-WN|EuroWest|LFBB,LFEE,LFMM,LFRR,LIMM,LSAS
-EUC-WS|EuroWest|LPPC,LECM,LECB,LECS
+EUC-EN|Eurocontrol|EPWW,LKAA,LZBB,LHCC
+EUC-ES|Eurocontrol|LIPP,LJLA,LDZO,LQSB,LIBB,LIRR,LMMM
+EUC-ME|Maastricht|EDWW-B,EDMM,EDGG-BAD,EDGG-DKB,EDGG-GIN,EDGG-RUD,LOVV
+EUC-MW|Maastricht|EDGG-PAH,EDWW-A,EDWW-D,EHAA,EBBU
+EUC-SE|Eurocontrol|LTAA,LTBB,LCCC
+EUC-SW|Eurocontrol|LRBB,LUUU,LBSR,LYBA,LGGG,LAAA,LWSS
+EUC-WN|Eurocontrol|LFBB,LFEE,LFMM,LFRR,LIMM,LSAS
+EUC-WS|Eurocontrol|LPPC,LECM,LECB,LECS
 GULF|Gulf Control|OIIX,ORBB,OSTT,OEJD,OKAC,OBBB,OMAE,OYSC,OOMM,OJAC,OLBB,HECC
 GULF_E|Gulf Control|OBBB,OIIX,OKAC,OMAE,OOMM,ORBB
 GULF_W|Gulf Control|HECC,OEJD,OJAC,OLBB,OSTT,OYSC
@@ -18592,8 +18629,6 @@ SAM-N|South America Control North|SEFG,SKED,SKEC,MPZL,MHCC,SVZM,SYGC,SMPM,SOOO
 SAM-E|South America Control East|SBCW,SBAZ,SBRE,SBBS
 SAM-S|South America Control South|SUEO,SGFA,SAEF,SARR,SACF,SAMF,SAVF
 SAM-W|South America Control West|SCEZ,SCTZ,SCCZ,SCFZ,SLLF,SPIM
-RKRR_A|Incheon Control|RKRR,RKDA
-
 
 [IDL]
 90.0|-180.0
